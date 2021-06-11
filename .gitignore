@@ -1,2 +1,5 @@
 # Don't track DS_Store
 .DS_Store
+# Don't track the token
+private.txt
+
